@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 5a984b4c7e8b5a6419b4739a436febc5
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 5888da38836990d42b1c3d69ac791d12
+  - enabled: 1
+    path: Assets/Scenes/Hasil.unity
+    guid: 198e36d8a5ed30f4da7b602ffaf479d8
+  - enabled: 1
+    path: Assets/Scenes/Kuis2_1.unity
+    guid: eb43476c99bd8a845aeb359b9118a1ff
+  - enabled: 1
+    path: Assets/Scenes/Kuis2_2.unity
+    guid: ca61dd6eaa2ea7d48abebed7e1be4ce6
+  - enabled: 1
+    path: Assets/Scenes/Kuis2_3.unity
+    guid: 29b76de4c943a044eb02ef8a4bdd7476
+  - enabled: 1
+    path: Assets/Scenes/Kuis2_4.unity
+    guid: 896d1dec08074e94c81bfe559d30dc57
+  - enabled: 1
+    path: Assets/Scenes/Kuis2_5.unity
+    guid: 0ba006095646c3b4dbe9868a37fea944
+  - enabled: 1
+    path: Assets/Scenes/Kuis2_6.unity
+    guid: 4043efe0dfd2a914887f1dfd0143c904
+  - enabled: 1
+    path: Assets/Scenes/Kuis2_7.unity
+    guid: 9882ffea0e814c040a602afade7502aa
+  - enabled: 1
+    path: Assets/Scenes/Kuis2_8.unity
+    guid: cff27b5f2ac155a4a97f19429626c402
+  - enabled: 1
+    path: Assets/Scenes/Kuis2_9.unity
+    guid: 62bba03d57b03f14daafba7ae734b196
+  - enabled: 1
+    path: Assets/Scenes/Kuis2_10.unity
+    guid: ef15aeb074a5bc544bca3b17267069e6
+  - enabled: 1
+    path: Assets/Scenes/Kuis3_1.unity
+    guid: 97ce1015870d7334086e76c943020131
+  - enabled: 1
+    path: Assets/Scenes/Kuis3_2.unity
+    guid: f6ca5f4dc54d57d4ab268c45caa478d8
+  - enabled: 1
+    path: Assets/Scenes/Kuis3_3.unity
+    guid: 8816f24472dfdaf4d853df6056a0875f
+  - enabled: 1
+    path: Assets/Scenes/Kuis3_4.unity
+    guid: 99c48a01dd714c7429e3ddc35a13154f
+  - enabled: 1
+    path: Assets/Scenes/Kuis3_5.unity
+    guid: fb444ae605bcd6e45a442e7f0fdadaac
+  - enabled: 1
+    path: Assets/Scenes/Kuis3_6.unity
+    guid: 1df9d2cf8c129a7468fd55cd506f6133
+  - enabled: 1
+    path: Assets/Scenes/Kuis3_7.unity
+    guid: 2ba5784874a2fab4d9634d5f7987d94c
+  - enabled: 1
+    path: Assets/Scenes/Kuis3_8.unity
+    guid: 6b54f4ca6eea35343ab4ee52ff34e971
+  - enabled: 1
+    path: Assets/Scenes/Kuis3_9.unity
+    guid: cee3582d78bf5c7429b99e54ec2a7965
+  - enabled: 1
+    path: Assets/Scenes/Kuis3_10.unity
+    guid: c5c41d42125a83943bf2f09320ee3e3f
+  - enabled: 1
+    path: Assets/Scenes/Kuis_1.unity
+    guid: c2d2c723bdbd2a0488b21bd5ba4f2519
+  - enabled: 1
+    path: Assets/Scenes/Kuis_2.unity
+    guid: b66f9833d38e6ca4a89c84923d76263a
+  - enabled: 1
+    path: Assets/Scenes/Kuis_3.unity
+    guid: 7f233867a077ed04197caaa89c4b8084
+  - enabled: 1
+    path: Assets/Scenes/Kuis_4.unity
+    guid: b51596b2cfb976940b51811e1804ef36
+  - enabled: 1
+    path: Assets/Scenes/Kuis_5.unity
+    guid: 723a7b93ff8f7734caf90e95ad757112
+  - enabled: 1
+    path: Assets/Scenes/Kuis_6.unity
+    guid: 2a8379bfb393eae41ba19d662f5e133a
+  - enabled: 1
+    path: Assets/Scenes/Kuis_7.unity
+    guid: d9d049f4c3bfba34783ea662938de4ab
+  - enabled: 1
+    path: Assets/Scenes/Kuis_8.unity
+    guid: 21c30ec5250d43c4dbed15fbf20c19ee
+  - enabled: 1
+    path: Assets/Scenes/Kuis_9.unity
+    guid: 7d9660a0d63b92648a44913d7e24a669
+  - enabled: 1
+    path: Assets/Scenes/Kuis_10.unity
+    guid: 9023951e2026a064d9b5e94acf4489d4
+  - enabled: 1
+    path: Assets/Scenes/Tentang.unity
+    guid: 1895b0f8425f7a04cbc704e8a7aa4343
+  - enabled: 1
+    path: Assets/Scenes/Topik.unity
+    guid: e89f1aa2b8a39724b9aa326cfcd612b8
+  m_configObjects: {}
